@@ -1,0 +1,30 @@
+{
+    "Patient Information": {
+        "Patient ID": "",
+        "Name": "",
+        "Age": "",
+        "Gender": ""
+    },
+    "Chief Complaint": "",
+    "History of Present Illness": "",
+    "Past Medical History": "",
+    "Medications": "",
+    "Allergies": "",
+    "Family History": "",
+    "Social History": "",
+    "Review of Systems": "",
+    "Physical Examination": {
+        "Vital Signs": "",
+        "HEENT": "",
+        "Neck": "",
+        "Cardiovascular": "",
+        "Respiratory": "",
+        "Gastrointestinal": "",
+        "Genitourinary": "",
+        "Neurological": "",
+        "Musculoskeletal": "",
+        "Skin": ""
+    },
+    "Diagnostic Workup": "",
+    "Assessment and Plan": ""
+}
