@@ -3,11 +3,11 @@ import json
 import traceback
 import pandas as pd
 from dotenv import load_dotenv
-from src.MEDBOT.utils import read_file, get_structured_data
+from utils import read_file, get_structured_data
 import streamlit as st
 from langchain.callbacks import get_openai_callback
-from src.MEDBOT.MedBot import generate_evaluate_chain
-from src.MEDBOT.logger import logging
+from MedBot import generate_evaluate_chain
+from logger import logging
 
 # Load environment variables
 load_dotenv()
