@@ -3,8 +3,8 @@ import json
 import pandas as pd
 import traceback #type: ignore
 from dotenv import load_dotenv
-from src.MEDBOT.utils import read_file, get_structured_data
-from src.MEDBOT.logger import logging
+utils import read_file, get_structured_data
+logger import logging
 
 from langchain.chat_models import ChatOpenAI
 from langchain.prompts import PromptTemplate
